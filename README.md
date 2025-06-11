@@ -1,4 +1,4 @@
-##📰 Fake News Detector | Text & PDF Classifier with Gemini LLM 🔍
+## Fake News Detector | Text & PDF Classifier with Gemini LLM 🔍
 Uncover the truth in seconds! This project lets you detect fake news from text or PDF files using a trained Machine Learning model (TF-IDF + Logistic Regression). Whether you're a researcher, journalist, or curious reader — just paste the content or upload a PDF, and get instant feedback.
 
 🚀 Features
